@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/phptdd",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "tomspencer",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "7.5.20"
+  }
+}
