@@ -7,6 +7,7 @@ class GameTest extends TestCase
 {
     public function testTest()
     {
-        $this->assertTrue(true);
+        $game = new Game();
+        $this->asserInstanceOf(Game::class, $game);
     }
 }
